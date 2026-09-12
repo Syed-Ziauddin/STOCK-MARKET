@@ -522,3 +522,6 @@ Power BI
   🏆 Conclusion
   
 This project demonstrates the use of SQL, Excel, Tableau, and Power BI to analyze stock market data and create interactive dashboards. The analysis helps identify stock price trends, trading volume, performance, and key market insights. Overall, the project strengthened my skills in data cleaning, data analysis, visualization, and dashboard development, providing practical experience in transforming raw data into meaningful insights.
+
+
+
