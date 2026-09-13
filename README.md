@@ -300,7 +300,7 @@ Excel served as an important exploratory analysis tool before developing the fin
 
 ## 📊 Excel Dashboard Preview
 
-![Stock Market Dashboard]()
+![Stock Market Dashboard](https://github.com/Syed-Ziauddin/STOCK-MARKET/blob/main/Excel%20Dashboard.png)
 
 
 ## 📈 Tableau Dashboard
