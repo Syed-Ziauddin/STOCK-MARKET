@@ -351,7 +351,7 @@ These filters allow users to perform customized analysis.
 
 ## 📊 Tableau Dashboard Preview
 
-![Stock Market Dashboard]()
+![Stock Market Dashboard](https://github.com/Syed-Ziauddin/STOCK-MARKET/blob/main/Tableau%20Dashboard.png)
 
 
 ## 📊 Power BI Dashboard
