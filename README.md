@@ -1,4 +1,4 @@
-📊 Project Overview
+## 📊 Project Overview
 
 
 The Stock Market Analytics & Dashboard project focuses on analyzing historical stock market data using multiple data analytics and business intelligence tools.
@@ -15,7 +15,7 @@ Tableau – Interactive dashboards and visual analytics.
 Power BI – Business intelligence dashboards, KPIs, and interactive reports.
 The project demonstrates an end-to-end data analytics workflow, starting from raw data preparation and ending with interactive dashboards.
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 The major objectives of this project are:
 
@@ -35,7 +35,7 @@ The major objectives of this project are:
 
   The overall goal is to provide users with a centralized analytical view of stock market performance.
 
-  💼 💼 Business Problem
+  ##  💼 Business Problem
   
 Stock market data is generated continuously and can contain thousands or millions of records.
 
@@ -53,9 +53,9 @@ Without proper analysis, it can be difficult to answer questions such as:
   
 This project addresses these problems by building analytical dashboards that allow users to explore the data through charts, KPIs, filters, and interactive visualizations.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-1. SQL
+##  1. SQL
    
 SQL was used as one of the primary tools for working with structured stock market data.
 Key SQL activities included:
@@ -74,7 +74,7 @@ Key SQL activities included:
   
 SQL helped transform raw records into meaningful datasets that could be further analyzed and visualized.  
 
-2. Microsoft Excel
+## 2. Microsoft Excel
    
 Excel was used for data preparation, exploratory analysis, calculations, and initial visualization.
 Key Excel features used include:
@@ -92,7 +92,7 @@ Key Excel features used include:
 
 Excel provided a convenient environment for understanding the dataset before creating advanced dashboards.
 
-3. Tableau
+## 3. Tableau
    
 Tableau was used to create interactive and visually appealing stock market dashboards.
 The Tableau dashboard helps users analyze:
@@ -107,7 +107,7 @@ The Tableau dashboard helps users analyze:
  
 Interactive filters and visualizations allow users to explore the data according to their requirements.
 
-4. Power BI
+## 4. Power BI
    
 Power BI was used to build a second business intelligence solution for stock market analysis.
 Power BI provides:
@@ -123,7 +123,7 @@ Power BI provides:
   
 Using both Tableau and Power BI demonstrates the ability to work with multiple business intelligence platforms.
 
-🔄 Project Workflow
+## 🔄 Project Workflow
 
 The project follows an end-to-end data analytics workflow:
 
@@ -138,11 +138,11 @@ Raw Stock Market Data
 7. Power BI Dashboard
 8. Business Insights
  
-Step 1 – Data Collection
+## Step 1 – Data Collection
 
 The stock market dataset was collected and imported for analysis.
 
-Step 2 – Data Cleaning
+## Step 2 – Data Cleaning
 
 The dataset was checked for:
 
@@ -153,28 +153,28 @@ The dataset was checked for:
 * Inconsistent values
 * Formatting issues
   
-Step 3 – Data Transformation
+## Step 3 – Data Transformation
 
 The data was transformed into a suitable structure for analysis.
 
-Step 4 – SQL Analysis
+## Step 4 – SQL Analysis
 
 SQL queries were used to extract important information and calculate metrics.
 
-Step 5 – Excel Analysis
+## Step 5 – Excel Analysis
 
 Excel was used for exploratory analysis, calculations, pivot tables, and initial visualizations.
 
-Step 6 – Dashboard Development
+## Step 6 – Dashboard Development
 
 Interactive dashboards were created using Tableau and Power BI.
 
-Step 7 – Insight Generation
+## Step 7 – Insight Generation
 
 The dashboards were analyzed to identify trends, patterns, and important stock market insights.
 
 
-🧹 Data Cleaning & Preparation
+## 🧹 Data Cleaning & Preparation
 
 Data cleaning is an important part of the project because visualization and analysis are only reliable when the underlying data is accurate.
 
@@ -201,7 +201,7 @@ Data Type Conversion
 
 Columns were converted to appropriate data types.
 
-For example:
+## For example:
 
 * Date → Date format
 * Open → Numeric
@@ -213,14 +213,14 @@ For example:
   
 Logical relationships between stock prices were also considered.
 
-For example:
+## For example:
 
 High >= Open
 High >= Close
 Low <= Open
 Low <= Close
 
-🧮 SQL Data Analysis
+## 🧮 SQL Data Analysis
 
 SQL was used to perform structured analysis on the stock market dataset.
 
@@ -259,7 +259,7 @@ A positive value indicates an increase during the trading session, while a negat
 SQL analysis helped prepare the data for further visualization in Tableau and Power BI.
 
 
-📗 Excel Analysis
+## 📗 Excel Analysis
 
 Microsoft Excel was used for exploratory data analysis and calculations.
 several Excel functionalities were utilized to understand the dataset.
@@ -298,7 +298,12 @@ Conditional formatting was used to highlight:
 Excel served as an important exploratory analysis tool before developing the final dashboards.
 
 
-📈 Tableau Dashboard
+## 📊 Excel Dashboard Preview
+
+![Stock Market Dashboard]()
+
+
+## 📈 Tableau Dashboard
 
 
 The Tableau dashboard provides an interactive visualization of stock market performance.
@@ -344,8 +349,12 @@ The dashboard provides filtering capabilities based on available fields such as:
 These filters allow users to perform customized analysis.
 
 
+## 📊 Tableau Dashboard Preview
 
-📊 Power BI Dashboard
+![Stock Market Dashboard]()
+
+
+## 📊 Power BI Dashboard
 
 The Power BI dashboard provides another interactive view of the stock market dataset.
 
@@ -383,7 +392,7 @@ Power BI slicers allow users to filter the dashboard dynamically.
 
 
 
-📌 Key Performance Indicators
+## 📌 Key Performance Indicators
 The dashboards focus on important stock market KPIs.
 
 1. Opening Price
@@ -410,7 +419,7 @@ Percentage Change =
 ((Closing Price - Opening Price) / Opening Price) × 100
 These KPIs help provide a better understanding of stock performance.
 
-🔍 Key Insights
+## 🔍 Key Insights
 
 
 The analysis of the stock market dataset can provide several useful insights.
@@ -441,37 +450,37 @@ Comparing multiple stocks makes it possible to identify:
   
 Analyzing stock data by day, month, quarter, or year can reveal seasonal or historical patterns.
 
-✨ Project Features
+## ✨ Project Features
 The major features of this project include:
 
-📊 Interactive Tableau dashboard
+## 📊 Interactive Tableau dashboard
 
-📈 Interactive Power BI dashboard
+## 📈 Interactive Power BI dashboard
 
-🧮 SQL-based data analysis
+## 🧮 SQL-based data analysis
 
-📗 Excel-based exploratory analysis
+## 📗 Excel-based exploratory analysis
 
-📅 Time-series analysis
+## 📅 Time-series analysis
 
-💹 Stock price analysis
+## 💹 Stock price analysis
 
-📦 Trading volume analysis
+## 📦 Trading volume analysis
 
-🔎 Interactive filtering
+## 🔎 Interactive filtering
 
-📌 KPI-based reporting
+## 📌 KPI-based reporting
 
-📊 Comparative stock analysis
+## 📊 Comparative stock analysis
 
-🧹 Data cleaning and transformation
+## 🧹 Data cleaning and transformation
 
-📈 Trend identification
+## 📈 Trend identification
 
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
-This project demonstrates practical knowledge in the following areas:
+## This project demonstrates practical knowledge in the following areas:
 
 * Data Analytics
 * Exploratory Data Analysis
@@ -481,7 +490,7 @@ This project demonstrates practical knowledge in the following areas:
 * Trend Analysis
 * Comparative Analysis
 
-SQL
+## SQL
 
 * SELECT statements
 * WHERE conditions
@@ -492,7 +501,7 @@ SQL
 * Data filtering
 * Analytical queries
 
-Excel
+## Excel
 
 * Formulas
 * Pivot Tables
@@ -501,7 +510,7 @@ Excel
 * Data Cleaning
 * Exploratory Analysis
 
-Tableau
+## Tableau
 
 * Dashboard development
 * Interactive filters
@@ -510,7 +519,7 @@ Tableau
 * Trend analysis
 * KPI visualization
 
-Power BI
+## Power BI
 
 * Dashboard development
 * Data modeling
@@ -519,7 +528,7 @@ Power BI
 * Interactive reports
 * Business intelligence visualization
 
-  🏆 Conclusion
+  ## 🏆 Conclusion
   
 This project demonstrates the use of SQL, Excel, Tableau, and Power BI to analyze stock market data and create interactive dashboards. The analysis helps identify stock price trends, trading volume, performance, and key market insights. Overall, the project strengthened my skills in data cleaning, data analysis, visualization, and dashboard development, providing practical experience in transforming raw data into meaningful insights.
 
